@@ -1,4 +1,4 @@
 #!/bin/bash
-mkdir /usr/local/bin/miners/claymore-zec-12.6
-cp * /usr/local/bin/miners/claymore-zec-12.6/.
+mkdir /usr/local/bin/miners/sgminer-kl-1.0.5_fix
+cp * /usr/local/bin/miners/sgminer-kl-1.0.5_fix/.
 cd ..
